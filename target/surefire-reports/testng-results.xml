@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-26T12:37:25 BST" name="Test-Suite" finished-at="2023-05-26T12:37:38 BST" duration-ms="13493">
+    <groups>
+    </groups>
+    <test started-at="2023-05-26T12:37:25 BST" name="Test first set" finished-at="2023-05-26T12:37:38 BST" duration-ms="13493">
+      <class name="RelativeLocators">
+        <test-method is-config="true" signature="setup()[pri:0, instance:RelativeLocators@d706f19]" started-at="2023-05-26T12:37:25 BST" name="setup" finished-at="2023-05-26T12:37:38 BST" duration-ms="13111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testHeader()[pri:0, instance:RelativeLocators@d706f19]" started-at="2023-05-26T12:37:38 BST" name="testHeader" finished-at="2023-05-26T12:37:38 BST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHeader -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RelativeLocators@d706f19]" started-at="2023-05-26T12:37:38 BST" name="tearDown" finished-at="2023-05-26T12:37:38 BST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- RelativeLocators -->
+    </test> <!-- Test first set -->
+  </suite> <!-- Test-Suite -->
+</testng-results>
